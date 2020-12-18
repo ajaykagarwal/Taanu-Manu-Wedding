@@ -1,0 +1,11 @@
+*{font-family: 'Playball', cursive;}
+.carousel-caption h5{font-size:55px;}
+.carousel-caption{position:absolute;top:250px;}
+.carousel-caption p	{font-family: 'Calligraffitti', cursive;font-size:50px;}
+.carousel-caption span{color:#e94040;}
+.second-crousal p,.second-crousal h5{color:#fff;}
+.Groom-Bride{width:80%; margin: auto;text-align: center;}
+.Groom-Bride i{color:#f25d59;font-size:18px;}
+.Groom-Bride h2::after{content: ""; width:11%; position: absolute;  border-bottom: solid 1px #f25d59;display: block;margin-left: 325px;padding-top: 13px;}
+.Groom-Bride i::after{content: ""; width:11%; position: absolute;  border-bottom: solid 1px #f25d59;padding-top: 5px;margin-left: 5px;}
+.bridge-img{width:15%;margin: auto;border:1px solid white;border-radius:50%;}
